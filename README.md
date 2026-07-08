@@ -10,6 +10,8 @@ I'm a passionate CS student with hands-on experience in programming languages li
 - 🎯 Open to internships and collaborative projects
 - 📫 Reach me at: krishg2410@gmail.com
 
+## 📄 Resume
+[View My Resume](./Krish_G_Resume_.pdf)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/krishgursahani) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krishg2410@gmail.com) 
