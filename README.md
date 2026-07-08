@@ -1,7 +1,7 @@
 # 💫 About Me:
 # Hi there, I'm Krish Gursahani 👋
 
-🎓 Pursuing B.Tech in Computer Science | 3rd Year
+🎓 Pursuing B.Tech in Computer Science | 4th Year
 
 I'm a passionate CS student with hands-on experience in programming languages like Python, Java, and C++, along with knowledge in Web Development and Cloud Technologies.I love building projects, exploring new tech, and turning ideas into reality through code.
 
